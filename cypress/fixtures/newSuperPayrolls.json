@@ -1,0 +1,21 @@
+[
+  {
+    "idSuperpayroll": "150a7fa8-26d0-4b7c-9c16-6f124f79011e",
+    "startDatePeriod": "2021-08-03T00:00:00.000Z",
+    "startDateIncidences": "2021-08-03T00:00:00.000Z",
+    "endDateIncidences": "2021-09-02T00:00:00.000Z",
+    "status": "calculated",
+    "payrollGroupId": "8c5b3a1d-0a79-4f16-a97e-fb95ffb70ec3",
+    "payrollType": "regular"
+  },
+  {
+    "idSuperpayroll": "ffbb4529-dc89-4e87-8a92-a53fc6025038",
+    "startDatePeriod": "2021-07-30",
+    "startDateIncidences": "2021-07-30",
+    "endDateIncidences": "2021-08-05",
+    "endDatePeriod": "2021-08-05",
+    "status": "calculated",
+    "payrollGroupId": "b3f5ebc1-0f61-49ef-99b2-fb7340b4a1e8",
+    "payrollType": "regular"
+  }
+]

@@ -1,0 +1,11 @@
+#Cypress
+node_modules
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
+allure-results
+yarn.lock
+.DS_Store
+cypress/.DS_Store
+cypress/downloads/
